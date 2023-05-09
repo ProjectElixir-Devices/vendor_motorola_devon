@@ -90,6 +90,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/devon/proprietary/vendor/etc/st21nfc_conf_ss.txt:$(TARGET_COPY_OUT_VENDOR)/etc/st21nfc_conf_ss.txt \
     vendor/motorola/devon/proprietary/vendor/etc/thermal-engine-devon.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-devon.conf \
     vendor/motorola/devon/proprietary/vendor/firmware/ILITEK_FW:$(TARGET_COPY_OUT_VENDOR)/firmware/ILITEK_FW \
+    vendor/motorola/devon/proprietary/recovery/root/vendor/firmware/ILITEK_FW:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/ILITEK_FW \
     vendor/motorola/devon/proprietary/vendor/firmware/NT36xxx_MP_Setting_Criteria_6056.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/NT36xxx_MP_Setting_Criteria_6056.csv \
     vendor/motorola/devon/proprietary/vendor/firmware/a630_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a630_sqe.fw \
     vendor/motorola/devon/proprietary/vendor/firmware/a650_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_gmu.bin \
@@ -102,10 +103,13 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/devon/proprietary/vendor/firmware/aw882xx_spk_reg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_spk_reg.bin \
     vendor/motorola/devon/proprietary/vendor/firmware/aw_skt.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw_skt.bin \
     vendor/motorola/devon/proprietary/vendor/firmware/focaltech-txd-ft8726-02-0000-devon.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-txd-ft8726-02-0000-devon.bin \
+    vendor/motorola/devon/proprietary/recovery/root/vendor/firmware/focaltech-txd-ft8726-02-0000-devon.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/focaltech-txd-ft8726-02-0000-devon.bin \
     vendor/motorola/devon/proprietary/vendor/firmware/st21nfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/st21nfc_fw.bin \
     vendor/motorola/devon/proprietary/vendor/firmware/st21nfc_fw7.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/st21nfc_fw7.bin \
     vendor/motorola/devon/proprietary/vendor/firmware/tm_novatek_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tm_novatek_ts_fw.bin \
+    vendor/motorola/devon/proprietary/recovery/root/vendor/firmware/tm_novatek_ts_fw.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/tm_novatek_ts_fw.bin \
     vendor/motorola/devon/proprietary/vendor/firmware/tm_novatek_ts_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tm_novatek_ts_mp.bin \
+    vendor/motorola/devon/proprietary/recovery/root/vendor/firmware/tm_novatek_ts_mp.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/tm_novatek_ts_mp.bin \
     vendor/motorola/devon/proprietary/vendor/lib/libcamxexternalformatutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamxexternalformatutils.so \
     vendor/motorola/devon/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_devon_ov02b10_otp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_devon_ov02b10_otp.so \
     vendor/motorola/devon/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_gt24p128e_s5kjn1_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_gt24p128e_s5kjn1_eeprom.so \
