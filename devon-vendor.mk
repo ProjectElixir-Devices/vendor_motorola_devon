@@ -101,6 +101,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/devon/proprietary/vendor/firmware/aw882xx_pid_1852_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_pid_1852_acf.bin \
     vendor/motorola/devon/proprietary/vendor/firmware/aw882xx_pid_2113_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_pid_2113_acf.bin \
     vendor/motorola/devon/proprietary/vendor/firmware/aw882xx_spk_reg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_spk_reg.bin \
+    vendor/motorola/devon/proprietary/vendor/firmware/aw9610x_0.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw9610x_0.bin \
     vendor/motorola/devon/proprietary/vendor/firmware/aw_skt.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw_skt.bin \
     vendor/motorola/devon/proprietary/vendor/firmware/focaltech-txd-ft8726-02-0000-devon.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-txd-ft8726-02-0000-devon.bin \
     vendor/motorola/devon/proprietary/recovery/root/vendor/firmware/focaltech-txd-ft8726-02-0000-devon.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/focaltech-txd-ft8726-02-0000-devon.bin \
